@@ -166,8 +166,8 @@ h1 {
       -ms-flex-direction: column;
           flex-direction: column;
   position: absolute;
-  bottom: -100%;
-  width: 80%;
+  bottom: -250px;
+  width: 60%;
   max-width: 900px;
   color: var(--light);
   background-color: var(--light-dark);
